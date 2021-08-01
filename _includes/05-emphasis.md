@@ -2,6 +2,6 @@
 _I like travelling around my country_
 
 **I like painting**
-__This will also be bold__
+__I like skateboarding_
 
 _You **can** combine them_
